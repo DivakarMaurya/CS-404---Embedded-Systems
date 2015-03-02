@@ -1,3 +1,14 @@
+# Comments from Mark A. Yoder
+#
+# 4 dts file - I get 0x164 for the offset, not 0x40
+# 5 comment block
+# 5 Debian release names
+# 5 Debian package count before and after adding jessie
+# 5 htop versions before and after jessie - What was the htop jessie version?
+
+# Grade:  24/25
+#######################################################
+
 ****************************
 * Name : Divakar Maurya    *
 * Roll Number : B12067     *
