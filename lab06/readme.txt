@@ -1,3 +1,18 @@
+#Comment from Mark A. Yoder
+
+# Demo       5
+# ReadMe.txt 3 - Please write your own ReadMe
+# Fritzing   0 - Bonus
+# Code       15
+
+
+Grade:  23/25
+
+The joystick only has two potentiometers
+
+================================================
+
+
 To: Mark A Yoder
 From: Divakar Maurya
 Roll No.: B12067
