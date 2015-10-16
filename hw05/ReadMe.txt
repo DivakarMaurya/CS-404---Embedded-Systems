@@ -1,3 +1,15 @@
+# Comments from Mark A. Yoder
+
+0  Memory Map  -- Missing
+5  mmap2.c    
+0  gpioThru.c - I get a error when compiling
+0  Proposal		- Missing
+0  Not Late
+
+Grade 5/25
+
+------------------------------------------------
+
 To: Mark A Yoder
 From: Divakar Maurya
 Date: 12 th October, 2015
