@@ -1,3 +1,15 @@
+# Comments from Mark A. Yoder
+
+5	Analog In 
+5	Analog Out
+5	Combine In and Out
+0	jsfiddle Local       - Don't see your code for this
+0	Add a button (bonus)
+7	ReadMe.txt		 - Well done!
+
+Grade:  22/25
+
+========================================
 To: Mark A Yoder
 From: Divakar Maurya
 Roll No.: B12067
